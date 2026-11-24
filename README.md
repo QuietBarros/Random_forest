@@ -8,6 +8,8 @@ Foi desenvolvido um modelo de classificação multiclasse capaz de identificar a
 
 O projeto foi desenvolvido como atividade acadêmica individual, visando à aplicação prática dos conceitos de aprendizado de máquina, análise de dados e classificação.
 
+Link do vídeo explicativo: https://www.youtube.com/watch?v=oxlboz0Lduk
+
 ## 2. Dataset utilizado
 
 Foi utilizado o conjunto de dados **Car Evaluation**, disponibilizado pela Universidade da Califórnia em Irvine (UCI Machine Learning Repository).
